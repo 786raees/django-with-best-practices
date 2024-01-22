@@ -57,7 +57,7 @@ attrs==23.2.0
     #   referencing
 babel==2.14.0
     # via jupyterlab-server
-beautifulsoup4==4.12.2
+beautifulsoup4==4.12.3
     # via nbconvert
 bleach==6.1.0
     # via nbconvert
