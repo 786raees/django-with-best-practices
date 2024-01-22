@@ -124,7 +124,7 @@ django==5.0.1
     #   django-stubs-ext
     #   django-tailwind-cli
     #   django-template-partials
-django-allauth==0.60.0
+django-allauth==0.60.1
     # via -r C:\Users\AITOMA~1\AppData\Local\Temp\tmps5p38zcv\default.in
 django-anymail==10.2
     # via -r C:\Users\AITOMA~1\AppData\Local\Temp\tmps5p38zcv\default.in
